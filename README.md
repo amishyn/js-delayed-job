@@ -1,5 +1,6 @@
 # Goal
-Offline job processing in ionic application. So that application
+Offline job processing in ionic application.
+Use case: delay api calls till the moment when connected to internet
 
 # How to use
 
@@ -8,17 +9,17 @@ Offline job processing in ionic application. So that application
 
 ## how to organize multiple jobs
 
-#Adapters:
+# Adapters:
 
 ## web sql
 
-##Cordova:
+## Cordova:
 - https://github.com/litehelpers/Cordova-sqlite-storage
 
-##Usage:
+## Usage:
 - sample
 
-#TODO
+# TODO
 - [x] draft api
 - [ ] cover with tests
 - [ ] extract status
